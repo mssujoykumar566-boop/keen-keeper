@@ -80,13 +80,13 @@
 
 🔗 Live Demo
 
-https://keen-keeper-pied-three.vercel.app/
+keen-keeper-one-mocha.vercel.app
 
 ## 📦 Installation
 
 
-git clone https://github.com/your-username/keenkepper.git
-cd keenkeeper
+git clone https://github.com/mssujoykumar566-boop/keen-keeper.git
+cd keen-keeper
 npm install
 npm run dev
 ```
@@ -104,4 +104,4 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Dulal Ahmed.
+Laxman Kumer Halder.
